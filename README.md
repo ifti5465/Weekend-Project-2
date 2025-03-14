@@ -6,7 +6,7 @@ We used next.js to create an app.
 
 Then using Cursors claude 3.7-sonnet AI, given the prompt "Create a simple interface for a page that generates jokes", it created the rest of the app. 
 
-Although it left the page.tsx file to have the default layout which we ediited out.
+Although it did leave the page.tsx file to have the default layout, which we ediited out.
 
 We then asked it to adhere to the following instructions: 
 
