@@ -16,7 +16,7 @@ The AI hardcoded the jokes into the code generating its own lists.
 
 We then gave it the prompt "I want you to now add a feature which you, the AI, evaluate whether you think the jokes are "funny", "appropriate" or "offensive". 
 
-After experimentation, since jokes are hardcoded and limited trying the same or even different categories could result with the same joke. 
+After experimentation, since jokes are hardcoded and limited, trying the same or even different categories could result with the same joke. 
 
 HOW TO USE:
 
