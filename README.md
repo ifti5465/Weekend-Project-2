@@ -18,3 +18,12 @@ We then gave it the prompt "I want you to now add a feature which you, the AI, e
 
 After experimentation, since jokes are hardcoded and limited trying the same or even different categories could result with the same joke. 
 
+HOW TO USE:
+
+Clone this git repository.
+Navigate to the project directory.
+Install the dependencies "npm install"
+Then "npm run dev"
+And open in your browser.
+
+
