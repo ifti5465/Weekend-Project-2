@@ -20,7 +20,7 @@ After experimentation, since jokes are hardcoded and limited, trying the same or
 
 HOW TO USE:
 
-Clone this git repository. \n
+Clone this git repository.
 Navigate to the project directory.
 Install the dependencies "npm install"
 Then "npm run dev"
